@@ -1,4 +1,4 @@
-[![CyVerse](https://cyverse.org/sites/default/files/inline-images/cyverse_cmyk.png)](https://cyverse.org)
+[![CyVerse](https://cyverse.org/sites/default/files/cyverse_logo_1_0.png)](https://cyverse.org)
 
 Welcome to [CyVerse](https://cyverse.org) Public GitHub Organization.
 
